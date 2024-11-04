@@ -1,0 +1,17 @@
+{
+  "name": "mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true,
+  "volta": {
+    "node": "22.11.0",
+    "yarn": "4.5.1"
+  }
+}
